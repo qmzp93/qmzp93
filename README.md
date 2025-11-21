@@ -4,6 +4,7 @@
 <h3 align="center">Junior CSIE student at NCU. Passionate about front-end dev & open source. Actively contributing to doc translations and building small tools.</h3>
 
 <h3 align="left">Connect with me:</h3>
+email: b31901937@gmail.com
 <p align="left">
 </p>
 
